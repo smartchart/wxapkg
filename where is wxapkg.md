@@ -6,6 +6,4 @@
       其中User为一串md5字符串，如图1所示
       
  
- 
- 
- ![Image ]（https://github.com/smartchart/wxapkg/raw/master/image/user.jpg)
+![Image](https://raw.githubusercontent.com/smartchart/wxapkg/master/image/user.jpg)
