@@ -4,4 +4,8 @@
 *     1.下载RE文件管理器并给与root权限
       2.打开文件路径：/data/data/com.tencent.mm/MicroMsg/{User}/appbrand/pkg
       其中User为一串md5字符串，如图1所示
-！[Image text]（https://github.com/smartchart/wxapkg/blob/master/img/img1.jpg）
+      
+ 
+ 
+ 
+ ！[user]（https://github.com/smartchart/wxapkg/blob/master/image/user.jpg）
