@@ -8,4 +8,4 @@
  
  
  
- ！[user]（https://github.com/smartchart/wxapkg/blob/master/image/user.jpg）
+ ![Image text]（https://github.com/smartchart/wxapkg/blob/master/image/user.jpg)
